@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt -w l | sort | uniq-u
+uniq-u
